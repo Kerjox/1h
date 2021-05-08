@@ -1,0 +1,12 @@
+[submodule "BBDD_1h"]
+	path = BBDD_1h
+	url = https://github.com/Kerjox/BBDD_1h.git
+[submodule "EDD_1h"]
+	path = EDD_1h
+	url = https://github.com/Kerjox/EDD_1h.git
+[submodule "LenDeMar_1h"]
+	path = LenDeMar_1h
+	url = https://github.com/Kerjox/LenDeMar_1h.git
+[submodule "Programacion1h"]
+	path = Programacion1h
+	url = https://github.com/Kerjox/Programacion1h.git
